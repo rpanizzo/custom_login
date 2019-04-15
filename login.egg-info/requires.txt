@@ -1,0 +1,8 @@
+bcrypt
+pyramid
+pyramid_jinja2
+pyramid_tm
+psycopg2
+sqlalchemy
+waitress
+zope.sqlalchemy

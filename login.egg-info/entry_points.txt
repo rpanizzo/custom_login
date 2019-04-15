@@ -1,0 +1,6 @@
+[console_scripts]
+initialize_db = login.initialize_db:main
+
+[paste.app_factory]
+main = login:main
+
